@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Tela de Senha</title>
+  <title>Insira a senha para entrar!</title>
   <script>
     function verificarSenha() {
       var senhaInserida = document.getElementById("senha").value;
       
-      if (senhaInserida === "255") {
+      if (senhaInserida === "255404") {
         window.location.href = "https://youtube.com/@BrenoPlayerZ_IMDD"
       } else {
         alert("Senha incorreta. Tente novamente.");
