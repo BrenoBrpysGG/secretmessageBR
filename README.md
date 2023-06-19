@@ -7,7 +7,7 @@
       var senhaInserida = document.getElementById("senha").value;
       
       if (senhaInserida === "255") {
-        window.location.href = "https://www.example.com"; // Substitua o link pelo seu link específico
+        window.location.href = "https://youtube.com/@BrenoPlayerZ_IMDD"
       } else {
         alert("Senha incorreta. Tente novamente.");
       }
